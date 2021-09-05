@@ -8,5 +8,6 @@ public class GitTest {
         System.out.println("git4");
         System.out.println("mastter hello git1");
         System.out.println("hot-fix hello git");
+        System.out.println("修改代码后，利用idea向远程仓库推送项目");
     }
 }
