@@ -9,5 +9,7 @@ public class GitTest {
         System.out.println("mastter hello git1");
         System.out.println("hot-fix hello git");
         System.out.println("修改代码后，利用idea向远程仓库推送项目");
+        System.out.println("远程库修改后拉取到本地");
+
     }
 }
